@@ -1,2 +1,3 @@
 在D盘或E盘专门开一个以英文命名的文件夹
 y<- read.csv("E:\\R\\123.csv",header = TRUE) 注意R的路径是\\不是\
+参考知乎-文华https://www.zhihu.com/question/20950125
